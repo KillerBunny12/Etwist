@@ -20,7 +20,7 @@
  * [Axios](https://github.com/axios/axios) Promise based HTTP client
  * [NodeJS](https://nodejs.org/) Live Testing and deployment
  * [MySQL](https://www.mysql.com/) Database
- [IMGBB Api](https://api.imgbb.com/) Images Database api
+ * [IMGBB Api](https://api.imgbb.com/) Images Database api
 ## Authors
 
 * **David Vargas** - *FrontEnd designer, BackEnd* - [KillerBunny12](https://github.com/KillerBunny12)
