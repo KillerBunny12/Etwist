@@ -16,6 +16,7 @@
  * [Reactjs](https://es.reactjs.org/) Javascript library
  * [ReactStrap](https://reactstrap.github.io/) React Bootstrap 4 components
  * [Laravel](https://laravel.com/) Php Framework
+ * [SASS](https://laravel.com/) CSS Extension
  * [Axios](https://github.com/axios/axios) Promise based HTTP client
  * [NodeJS](https://nodejs.org/) Live Testing and deployment
  * [MySQL](https://www.mysql.com/) Database
