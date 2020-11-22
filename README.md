@@ -23,7 +23,7 @@
  [IMGBB Api](https://api.imgbb.com/) Images Database api
 ## Authors
 
-* **David Vargas** - *FrontEnd designer* - [KillerBunny12](https://github.com/KillerBunny12)
+* **David Vargas** - *FrontEnd designer, BackEnd* - [KillerBunny12](https://github.com/KillerBunny12)
 * **Brandon Castro** - *BackEnd* - [BrandonCastro932](https://github.com/BrandonCastro932)
 * **Sergio Mendez** - *BackEnd*
 
