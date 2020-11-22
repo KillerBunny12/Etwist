@@ -1,0 +1,50 @@
+.container {
+  h2 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .user {
+    margin-top: 50px;
+    border-radius: 100px;
+    background-color: #657786;
+    max-height: 100px;
+    max-width: 700px;
+
+    .profilePic {
+      max-width: 100px;
+      max-height: 100px;
+      border-radius: 100px;
+    }
+    a {
+      color: white;
+      margin-left: 20px;
+      font-size: 25px;
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    .user {
+      margin-top: 50px;
+      border-radius: 100px;
+      background-color: #657786;
+      max-height: 50px;
+      max-width: 700px;
+
+      .profilePic {
+        max-width: 50px;
+        max-height: 50px;
+        border-radius: 100px;
+      }
+      a {
+        color: white;
+        margin-left: 20px;
+        font-size: 1.25rem;
+      }
+    }
+  }
+}

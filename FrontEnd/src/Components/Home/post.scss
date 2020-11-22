@@ -1,0 +1,141 @@
+body {
+  background-image: url("https://i.ibb.co/vZTD7kw/2224369-waifu2x-art-noise3-scale-tta-1.png");
+}
+.postear {
+  background-color: #141d26;
+  max-width: 100%;
+  height: auto;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.menu {
+  padding-top: 65px;
+  float: left;
+}
+
+.mainmenu {
+  max-width: 100%;
+}
+
+.test {
+  padding-top: 66px;
+  max-width: 600px;
+  float: right;
+  .imgtimeline {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+}
+.posttexto {
+  resize: none;
+  width: 100%;
+  margin-top: 30px;
+  box-sizing: border-box;
+  height: 150px;
+  background-color: #141d26;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+
+  border-radius: 10px;
+}
+.random {
+  width: 600px;
+}
+.botonimagen {
+  display: none;
+}
+
+.limagen {
+  margin-top: 20px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  border: none;
+  background-color: #1da1f2;
+  border-radius: 20px;
+  padding: 10px;
+
+  display: inline-block;
+  position: relative;
+
+  &:hover {
+    background-color: #1f8bce;
+  }
+
+  &:active {
+    background-color: #104464;
+    border: 2px solid black;
+  }
+}
+.iconoimagen {
+  display: inline-block;
+  position: relative;
+  width: auto;
+  height: 18px;
+  margin-left: 10px;
+}
+
+.publicar {
+  margin-top: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.usuariopost {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  vertical-align: top;
+  padding-left: 10px;
+}
+.avatarpost2 {
+  border-radius: 180px;
+  width: 60px;
+  height: 60px;
+}
+
+.busquedahome {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+@media (max-width: 940px) {
+  .postear {
+    max-width: 300px;
+    margin: 0 auto;
+
+    .publicacionpensar {
+      .publicar {
+        font-size: 0.85rem;
+      }
+    }
+  }
+  .menu {
+    padding-top: 20px;
+    float: none;
+  }
+
+  .test {
+    float: none;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  .container {
+    .busquedahome {
+      font-size: 0.95rem;
+      #barrabusqueda {
+        font-size: 0.95rem;
+      }
+      .buscarhome {
+        font-size: 0.85rem;
+      }
+    }
+  }
+}

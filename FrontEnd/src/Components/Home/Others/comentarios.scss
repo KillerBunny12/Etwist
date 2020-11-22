@@ -1,0 +1,90 @@
+.container {
+  width: 100%;
+}
+
+.comentario,
+.Comments {
+  .comentariopic {
+    width: 90px;
+    height: 90px;
+    border-radius: 180px;
+  }
+  .creado {
+    max-width: 100%;
+    .imagePostReal {
+      max-width: 100%;
+      border-radius: 20px;
+      margin: 0 auto;
+      display: block;
+    }
+
+    form {
+      input {
+        font-size: 1rem;
+      }
+    }
+  }
+  background-color: #141d26;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+
+  .textPost {
+    padding-left: 50px;
+    padding-top: 10px;
+  }
+
+  .like {
+    background-color: rgba($color: #000000, $alpha: 0);
+    border: 0;
+    max-width: 27px;
+    max-height: 30px;
+  }
+  .likeimg {
+    max-width: 30px;
+    max-height: 30px;
+  }
+
+  .nombreUsuario {
+    font: 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Ubuntu, "Helvetica Neue", sans-serif;
+    font-weight: 700;
+    font-size: 3vh;
+    color: white;
+    vertical-align: top;
+    padding-left: 10px;
+    padding-top: 30px;
+  }
+
+  .avatarUsuario {
+    border-radius: 360px;
+    max-width: 100px;
+  }
+
+  .tiempo {
+    font: 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Ubuntu, "Helvetica Neue", sans-serif;
+    float: right;
+    font-size: 2wh;
+    color: #657786;
+    vertical-align: top;
+    padding-left: 10px;
+  }
+
+  .fecha {
+    font: 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Ubuntu, "Helvetica Neue", sans-serif;
+    float: right;
+    font-size: 2wh;
+    color: #657786;
+    vertical-align: top;
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 450px) {
+  .comentariopic {
+    width: 60px;
+    height: 60px;
+  }
+}

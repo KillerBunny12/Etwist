@@ -1,0 +1,102 @@
+.timeline {
+  background-color: #141d26;
+  max-width: 100%;
+  height: auto;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.container {
+  max-width: 100%;
+  background-color: rgba($color: #000000, $alpha: 0);
+  .contents {
+    background-color: rgba($color: #000000, $alpha: 0);
+  }
+}
+
+.usuariotimeline {
+  font: 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", sans-serif;
+  font-weight: 700;
+  font-size: 3vh;
+  color: white;
+  vertical-align: top;
+  padding-left: 10px;
+}
+a{
+  margin-left: 10px;
+}
+.avatartimeline1 {
+  border-radius: 360px;
+  max-width: 100%;
+  padding-right: 60px;
+}
+.datetimeline {
+  font: 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", sans-serif;
+  float: right;
+  font-size: 2wh;
+  color: #657786;
+  vertical-align: top;
+  padding-left: 10px;
+}
+
+.PostTimeline {
+  color: white;
+  word-break: normal;
+  max-width: 100%;
+}
+
+.imgtimeline {
+  max-width: 600px;
+  height: auto;
+  padding-top: 10px;
+
+  border-radius: 20px;
+}
+
+.textotimeline {
+  max-width: 600px;
+  margin-left: 65px;
+}
+.hrtimeline {
+  border-width: 100%;
+  border-color: white;
+}
+
+.like {
+  background-color: rgba($color: #000000, $alpha: 0);
+  border: 0;
+  width: 27px;
+  height: 30px;
+}
+
+.borrar {
+  background-color: rgba($color: #000000, $alpha: 0);
+  border: 0;
+  width: 27px;
+  height: 30px;
+  float: right;
+}
+.likeimg {
+  width: 30px;
+  height: 30px;
+}
+
+.likes {
+  color: white;
+  padding-left: 10px;
+}
+.comments{
+  color: white;
+}
+
+@media (max-width: 940px) {
+  .usuariotimeline {
+    font-size: 0.85rem;
+    max-width: 100%;
+  }
+
+  .datetimeline {
+  }
+}
