@@ -24,7 +24,7 @@
 ## Authors
 
 * **David Vargas** - *FrontEnd designer, BackEnd* - [KillerBunny12](https://github.com/KillerBunny12)
-* **Brandon Castro** - *FrontEnd coding, BackEnd* - [BrandonCastro932](https://github.com/BrandonCastro932)
+* **Brandon Castro** - *FrontEnd Javascript, BackEnd* - [BrandonCastro932](https://github.com/BrandonCastro932)
 * **Sergio Mendez** - *BackEnd*
 
 ## Acknowledgments
