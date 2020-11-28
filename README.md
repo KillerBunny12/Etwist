@@ -25,7 +25,7 @@
 
 * **David Vargas** - *FrontEnd designer, BackEnd* - [KillerBunny12](https://github.com/KillerBunny12)
 * **Brandon Castro** - *FrontEnd Javascript, BackEnd* - [BrandonCastro932](https://github.com/BrandonCastro932)
-* **Sergio Mendez** - *BackEnd*
+* **Sergio Mendez** - *FrontEnd Javascript, BackEnd*
 
 ## Acknowledgments
 
